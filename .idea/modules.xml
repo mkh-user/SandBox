@@ -2,7 +2,26 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java - Authenticator/Authenticator.iml" filepath="$PROJECT_DIR$/Java - Authenticator/Authenticator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java - Authenticator2/Authenticator2.iml" filepath="$PROJECT_DIR$/Java - Authenticator2/Authenticator2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java - CharUpper/CharUpper.iml" filepath="$PROJECT_DIR$/Java - CharUpper/CharUpper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java - CheckPassword/CheckPassword.iml" filepath="$PROJECT_DIR$/Java - CheckPassword/CheckPassword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java - CompanyEmployeeManager/CompanyEmployeeManager.iml" filepath="$PROJECT_DIR$/Java - CompanyEmployeeManager/CompanyEmployeeManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java - DeleteEvidence/DeleteEvidence.iml" filepath="$PROJECT_DIR$/Java - DeleteEvidence/DeleteEvidence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java - Elevator Filter/Elevator Filter.iml" filepath="$PROJECT_DIR$/Java - Elevator Filter/Elevator Filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java - Elevator Filter 2/Elevator Filter 2.iml" filepath="$PROJECT_DIR$/Java - Elevator Filter 2/Elevator Filter 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java - FristProgram/FristJavaProgram.iml" filepath="$PROJECT_DIR$/Java - FristProgram/FristJavaProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java - Guess Again/Guess Again.iml" filepath="$PROJECT_DIR$/Java - Guess Again/Guess Again.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java - Guessing Game/Guessing Game.iml" filepath="$PROJECT_DIR$/Java - Guessing Game/Guessing Game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java - JustSwithIt/JustSwithIt.iml" filepath="$PROJECT_DIR$/Java - JustSwithIt/JustSwithIt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java - MakeChange/MakeChange.iml" filepath="$PROJECT_DIR$/Java - MakeChange/MakeChange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java - Millionaire/Millionaire.iml" filepath="$PROJECT_DIR$/Java - Millionaire/Millionaire.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/SandBox.iml" filepath="$PROJECT_DIR$/.idea/SandBox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java - Show Frame/Show Frame.iml" filepath="$PROJECT_DIR$/Java - Show Frame/Show Frame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java - Temperature/Temperature.iml" filepath="$PROJECT_DIR$/Java - Temperature/Temperature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java - Use Assignment Operators/Use Assignment Operators.iml" filepath="$PROJECT_DIR$/Java - Use Assignment Operators/Use Assignment Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java - UseAccount/UseAccount.iml" filepath="$PROJECT_DIR$/Java - UseAccount/UseAccount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java - Yawn/Yawn.iml" filepath="$PROJECT_DIR$/Java - Yawn/Yawn.iml" />
     </modules>
   </component>
 </project>
