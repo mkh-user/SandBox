@@ -7,7 +7,7 @@ public class CheckPassword {
         Scanner keyboard = new Scanner(System.in);
         String password = keyboard.next();
         out.println("You typed >>" + password + "<<");
-        out.println("");
+        out.println();
         if (password == "swordfish"){
             out.println("The word you typed is stored");
             out.println("in the same place as the real");
