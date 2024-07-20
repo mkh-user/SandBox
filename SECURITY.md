@@ -6,8 +6,4 @@ This is a public editing environment where all versions of its files include sec
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+Due to possible security issues from all the people in the project, the responsibility of following up security bugs lies with the creators of each module, but the repository owner oversees this process. You can use the special pages of each module to report security bugs.
