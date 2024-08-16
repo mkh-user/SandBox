@@ -5,7 +5,7 @@ public class Account {
     String address;
     double balance;
     public void setName(String n) {
-        if (!n.equals("")) {
+        if (!n.isEmpty()) {
             name = n;
         }
     }
